@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Margin",
+    "slug": "margin-notes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FAF9F6"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FAF9F6"
+      },
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
